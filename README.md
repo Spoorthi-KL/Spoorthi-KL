@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Spoorthi currently pursuing my Master's in AI at BTU Cottbus.
+
+I work on Machine Learning, NLP, and Deep Learning, with a focus on LLMs, RAG, and real-world applications.
+
+This space is where I share what I build and learn 🚀
+
 <!--
 **Spoorthi-KL/Spoorthi-KL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
